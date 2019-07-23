@@ -29,3 +29,7 @@ Route::resource('posts', 'PostsController'); //veoma korisno da se ne pise za sv
 // Route::get('/users/{id}', function($id) {
 //     return 'This is user: '.$id;
 // }); 
+
+Auth::routes();
+
+Route::get('/dashboard', 'DashboardController@index');
