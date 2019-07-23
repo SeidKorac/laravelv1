@@ -15,6 +15,9 @@
             <li class="nav-item">
               <a class="nav-link" href="/services">Services</a>
             </li>
+            <li class="nav-item">
+              <a class="nav-link" href="/posts">Blog</a>
+            </li>
             
           </ul>
           <form class="form-inline mt-2 mt-md-0">
